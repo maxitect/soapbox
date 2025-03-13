@@ -1,0 +1,122 @@
+[
+	{
+		"id": "1",
+		"name": "Cedarwood Bliss",
+		"category": "Shampoo",
+		"handle": "cedarwood-bliss",
+		"price": 5.99,
+		"availableStock": 15,
+		"images": ["/products/cedarwood.jpeg"],
+		"description": "Immerse yourself in the rich, earthy aroma of Cedarwood Bliss. Infused with natural cedarwood oils, this soap provides a grounding and calming experience, perfect for relaxation and deep cleansing."
+	},
+	{
+		"id": "2",
+		"name": "Citrus Burst",
+		"category": "Soap",
+		"handle": "citrus-burst",
+		"price": 4.99,
+		"availableStock": 20,
+		"images": ["/products/citrus.jpeg"],
+		"description": "Brighten your day with the refreshing scent of Citrus Burst. Packed with zesty orange, lemon, and grapefruit extracts, this energizing soap revitalizes your skin while leaving a crisp, uplifting fragrance."
+	},
+	{
+		"id": "3",
+		"name": "Coconut Paradise",
+		"category": "Shampoo",
+		"handle": "coconut-paradise",
+		"price": 5.49,
+		"availableStock": 18,
+		"images": ["/products/coconut.jpeg"],
+		"description": "Escape to an island retreat with Coconut Paradise. This creamy, hydrating soap is enriched with coconut oil to nourish your skin, while its tropical scent transports you to white sandy beaches."
+	},
+	{
+		"id": "4",
+		"name": "Eucalyptus Refresh",
+		"category": "Soap",
+		"handle": "eucalyptus-refresh",
+		"price": 5.29,
+		"availableStock": 12,
+		"images": ["/products/eucalyptus.jpeg"],
+		"description": "Breathe easy with Eucalyptus Refresh. This invigorating soap is infused with eucalyptus oil, known for its soothing and cooling properties, making it the perfect way to refresh your skin and senses."
+	},
+	{
+		"id": "5",
+		"name": "Herbal Harmony",
+		"category": "Shampoo",
+		"handle": "herbal-harmony",
+		"price": 4.79,
+		"availableStock": 14,
+		"images": ["/products/herbal.jpeg"],
+		"description": "A perfect blend of nature’s best botanicals, Herbal Harmony is infused with a mix of herbal extracts that cleanse, nourish, and restore your skin, leaving it soft and refreshed."
+	},
+	{
+		"id": "6",
+		"name": "Lavender Calm",
+		"category": "Soap",
+		"handle": "lavender-calm",
+		"price": 5.99,
+		"availableStock": 17,
+		"images": ["/products/lavender.jpeg"],
+		"description": "Unwind with the soothing aroma of Lavender Calm. Infused with real lavender essential oil, this soap helps relax your mind and body while providing gentle cleansing for a serene bathing experience."
+	},
+	{
+		"id": "7",
+		"name": "Lemongrass Zest",
+		"category": "Shampoo",
+		"handle": "lemongrass-zest",
+		"price": 5.49,
+		"availableStock": 13,
+		"images": ["/products/lemongrass.jpeg"],
+		"description": "Awaken your senses with Lemongrass Zest, a refreshing soap packed with the uplifting scent of lemongrass. Its natural antibacterial properties cleanse and rejuvenate your skin, leaving you feeling fresh all day."
+	},
+	{
+		"id": "8",
+		"name": "Ocean Breeze",
+		"category": "Soap",
+		"handle": "ocean-breeze",
+		"price": 6.29,
+		"availableStock": 10,
+		"images": ["/products/ocean.jpeg"],
+		"description": "Feel the cool embrace of the sea with Ocean Breeze. This fresh, aquatic-scented soap transports you to ocean waves while cleansing and hydrating your skin for a crisp, refreshing wash."
+	},
+	{
+		"id": "9",
+		"name": "Peppermint Cool",
+		"category": "Shampoo",
+		"handle": "peppermint-cool",
+		"price": 5.49,
+		"availableStock": 16,
+		"images": ["/products/peppermint.jpeg"],
+		"description": "Energize your skin with Peppermint Cool. Infused with pure peppermint oil, this soap provides a cooling sensation that awakens your senses and leaves your skin feeling fresh and tingly."
+	},
+	{
+		"id": "10",
+		"name": "Rose Elegance",
+		"category": "Soap",
+		"handle": "rose-elegance",
+		"price": 6.49,
+		"availableStock": 9,
+		"images": ["/products/rose.jpeg"],
+		"description": "Indulge in the classic luxury of Rose Elegance. With the delicate scent of fresh roses, this soap pampers your skin, leaving it soft, smooth, and beautifully fragrant."
+	},
+	{
+		"id": "11",
+		"name": "Tea Tree Glow",
+		"category": "Shampoo",
+		"handle": "tea-tree-glow",
+		"price": 5.99,
+		"availableStock": 11,
+		"images": ["/products/teatree.jpeg"],
+		"description": "Purify and refresh your skin with Tea Tree Glow. This antibacterial and antifungal soap harnesses the power of tea tree oil to cleanse deeply while keeping your skin healthy and radiant."
+	},
+	{
+		"id": "12",
+		"name": "Vanilla Dream",
+		"category": "Soap",
+		"handle": "vanilla-dream",
+		"price": 5.79,
+		"availableStock": 19,
+		"images": ["/products/vanilla.jpeg"],
+		"description": "Wrap yourself in the comforting warmth of Vanilla Dream. Infused with rich vanilla essence, this soap leaves your skin soft and hydrated with a sweet, creamy aroma that lingers."
+	}
+]
