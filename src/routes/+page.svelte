@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+	import ProductGrid from '$lib/ui/ProductGrid.svelte';
+	import products from '$lib/data/products.json';
+</script>
+
+<h1 class="text-dark text-center text-4xl">Got Soap?</h1>
+<ProductGrid {products} />
