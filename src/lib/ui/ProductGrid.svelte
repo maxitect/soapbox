@@ -1,5 +1,6 @@
 <script lang="ts">
-	import ProductCard, { type ProductProps } from './ProductCard.svelte';
+	import type { ProductProps } from '$lib/types';
+	import ProductCard from './ProductCard.svelte';
 
 	interface Props {
 		products: ProductProps[];
